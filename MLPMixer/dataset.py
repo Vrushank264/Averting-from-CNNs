@@ -37,23 +37,4 @@ def dataset_Loader(root_dir, batch_size, train=True):
         dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
         
         return dataloader
-
-
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+ 
