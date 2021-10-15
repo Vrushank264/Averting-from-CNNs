@@ -1,5 +1,5 @@
 # Averting-from-CNNs
-Code for our [Research paper](https://drive.google.com/file/d/1QFzNaLGlBZT26LO4KA9LJcwi2zz8TMZM/view?usp=sharing) project called "Averting from CNNs for medical image classification".
+Code for our Research paper(Under Review) project called "Averting from CNNs for medical image classification".
 
 ## Abstract
 
